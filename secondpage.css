@@ -1,0 +1,181 @@
+.downloadbutton1{
+   font-size: 2em; 
+   text-decoration: none;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 3px;
+   position: absolute;
+   left: 65px;
+   top: 520px;
+   border: 4px solid #ffffff;
+   padding-top: 20px;
+   padding-bottom:20px ;
+   padding-left: 30px;
+   padding-right: 30px;
+   border-radius: 40px;
+   color: white;
+}
+.downloadbutton1:hover{
+    color: rgb(254, 254, 254);
+    background-color: blue;
+}
+
+.download1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    width: 350px;
+    height: 630px;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    letter-spacing: 5px;
+    border: 4px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    backdrop-filter: blur(2px);
+    
+}
+
+.h11{
+    line-height: 50px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    color: white;
+}
+
+.starimage{
+    width: 1520px;
+    height: 710px;
+}
+
+
+.downloadbutton2{
+    font-size: 2em; 
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+    position: absolute;
+    left: 445px;
+    top: 520px;
+    border: 4px solid #ffffff;
+    padding-top: 20px;
+    padding-bottom:20px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 40px;
+    color: white;
+ }
+ .downloadbutton2:hover{
+     color: rgb(254, 254, 254);
+     background-color: rgb(14, 184, 51);
+ }
+ 
+ .download2{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 1em;
+     width: 350px;
+     height: 630px;
+     position: absolute;
+     left: 400px;
+     top: 50px;
+     letter-spacing: 5px;
+     border: 4px solid rgb(255, 255, 255);
+     border-radius: 20px;
+     backdrop-filter: blur(2px);
+     
+ }
+ 
+ .h12{
+     line-height: 50px;
+     position: absolute;
+     left: 20px;
+     top: 20px;
+     color: white;
+ }
+
+ .downloadbutton3{
+    font-size: 2em; 
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+    position: absolute;
+    left: 825px;
+    top: 520px;
+    border: 4px solid #ffffff;
+    padding-top: 20px;
+    padding-bottom:20px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 40px;
+    color: white;
+ }
+ .downloadbutton3:hover{
+     color: rgb(254, 254, 254);
+     background-color: rgb(215, 215, 49);
+ }
+ 
+ .download3{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 1em;
+     width: 350px;
+     height: 630px;
+     position: absolute;
+     left: 780px;
+     top: 50px;
+     letter-spacing: 5px;
+     border: 4px solid rgb(255, 255, 255);
+     border-radius: 20px;
+     backdrop-filter: blur(2px);
+     
+ }
+ 
+ .h13{
+     line-height: 50px;
+     position: absolute;
+     left: 20px;
+     top: 20px;
+     color: white;
+ }
+
+ .downloadbutton4{
+    font-size: 2em; 
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+    position: absolute;
+    left: 1205px;
+    top: 520px;
+    border: 4px solid #ffffff;
+    padding-top: 20px;
+    padding-bottom:20px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 40px;
+    color: white;
+ }
+ .downloadbutton4:hover{
+     color: rgb(254, 254, 254);
+     background-color: rgb(255, 0, 0);
+ }
+ 
+ .download4{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 1em;
+     width: 350px;
+     height: 630px;
+     position: absolute;
+     left: 1160px;
+     top: 50px;
+     letter-spacing: 5px;
+     border: 4px solid rgb(255, 255, 255);
+     border-radius: 20px;
+     backdrop-filter: blur(2px);
+     
+ }
+ 
+ .h14{
+     line-height: 50px;
+     position: absolute;
+     left: 20px;
+     top: 20px;
+     color: white;
+ }
